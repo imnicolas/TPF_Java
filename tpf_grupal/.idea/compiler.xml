@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tpf_grupal" />
+        <module name="TP_Integrador_Java" />
       </profile>
     </annotationProcessing>
   </component>
